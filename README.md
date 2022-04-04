@@ -1,2 +1,2 @@
 # Curriculum
-Despliegue del curriculum com Pages
+Despliegue del curriculum con Pages
